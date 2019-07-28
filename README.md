@@ -87,6 +87,9 @@ For debugging purposes invoke baselines with following environmental variable:
 If there are issues follow [this](https://github.com/duckietown/gym-duckietown#running-headless-and-training-in-a-cloud-based-environment-aws)
 instruction.
 
+## Presentation to initial Results
+https://docs.google.com/presentation/d/1wxcVQcTnhOC700dCKF-H1ftDOI84jh5EPQZgoMzgHvc/edit?usp=sharing 
+
 ## Authors
 
 [Frank Röder](https://frankyroeder.de) & [Shahd Safarani](https://github.com/Shahdsaf)
