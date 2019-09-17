@@ -89,6 +89,8 @@ instruction.
 
 ## Presentation to initial Results
 https://docs.google.com/presentation/d/1wxcVQcTnhOC700dCKF-H1ftDOI84jh5EPQZgoMzgHvc/edit?usp=sharing 
+Paper expalining this work: https://informatikunihamburgde-my.sharepoint.com/:b:/g/personal/shahd_safarani_informatik_uni-hamburg_de/EQHoVG7L9vdHqMR77BHuSyUBQqCFqUnb-Yjl7ThXFmF7HQ?e=56Hrva
+The paper is for explaining the work in detail while the presentation is for showing decent results.
 
 ## Authors
 
